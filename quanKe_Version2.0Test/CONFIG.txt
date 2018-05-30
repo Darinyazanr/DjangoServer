@@ -1,0 +1,1 @@
+{"model": "/home/jq/jeeker/TT_ML/ModelManager/CDSS2.0/mix_249_add/SGD/SGD_zhuyuan.pickle", "transformPk": "/home/jq/jeeker/DATA_2/mix_249_add/X_transform.pickle", "normalPk": "/home/jq/jeeker/TT_ML/ModelManager/CDSS2.0/mix_249_add/SGD/MaxAbsScaler.pickle", "Y_label": "/home/jq/jeeker/DATA_2/mix_249_add/Y_label.txt"}

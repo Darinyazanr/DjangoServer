@@ -1,0 +1,1 @@
+{"transformPk":"/home/jq/jeeker/DATA_2/RareDisease/X_transform.pickle", "Y_label":"/home/jq/jeeker/DATA_2/RareDisease/Y_label.txt","totalLibsvm":"/home/jq/jeeker/DATA_2/RareDisease/total.libsvm","rareSymptom":"/home/jq/jeeker/DATA_2/RareDisease/RareDiseaseSymptom.txt"}
